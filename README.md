@@ -1,4 +1,4 @@
-# Machine-Learning-Based-Spotify-Song-Clustering
+# 🎧 Machine-Learning-Based-Spotify-Song-Clustering
 This project uses unsupervised machine learning to group songs into clusters based on their audio features, aiming to replicate the logic behind curated Spotify playlists.
 
 # Approach
