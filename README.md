@@ -6,7 +6,9 @@ This project uses unsupervised machine learning to group songs into clusters bas
 
   The data was first scaled using MinMaxScaler to normalize feature values.
 
-  The optimal number of clusters was determined using the Silhouette Method.
+  The optimal number of clusters was determined using the Silhouette Method as shown below:
+  
+  
 
   Songs with similar characteristics were grouped into the same cluster by the K-Means algorithm.
 
