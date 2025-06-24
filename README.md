@@ -8,7 +8,7 @@ This project uses unsupervised machine learning to group songs into clusters bas
 
   The optimal number of clusters was determined using the Silhouette Method as shown below:
   
-  ![Image](https://github.com/user-attachments/assets/93f4211e-b3d1-4828-9798-c8e6f845b498)
+![Image](https://github.com/user-attachments/assets/c944376e-ab64-4eee-a637-7185de857ada)
   
 
   Songs with similar characteristics were grouped into the same cluster by the K-Means algorithm. The representative of the cluster is shown below:
