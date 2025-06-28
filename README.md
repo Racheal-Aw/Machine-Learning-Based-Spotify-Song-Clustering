@@ -20,6 +20,11 @@ This project uses unsupervised machine learning to group songs into clusters bas
 # Results
   The clustering model achieved a 70% match with actual Spotify playlists, demonstrating strong alignment between algorithmic clustering and human-curated playlists.
 
+https://open.spotify.com/playlist/7Izrr3zHaiwpt4IDjnupXa?si=c6b38f14f5c2427b
+
+https://open.spotify.com/playlist/6hTBpPrn11CmPAbJlAtN09?si=2c28c2d1e7364eef
+
+
 # 🔧 Technologies Used
   Python
 
